@@ -1,0 +1,1 @@
+https://github.com/BorisBanchev/teamMagicians/pull/48
