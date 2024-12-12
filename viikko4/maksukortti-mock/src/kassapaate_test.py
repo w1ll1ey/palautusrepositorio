@@ -49,3 +49,5 @@ if __name__ == "__main__":
     test.test_kortilta_ei_veloteta_jos_raha_ei_riita()
     test.test_kortille_lisataan_rahaa_jos_summa_on_positiivinen()
     test.test_kortille_ei_lisata_rahaa_jos_summa_on_negatiivinen()
+    
+#test test
