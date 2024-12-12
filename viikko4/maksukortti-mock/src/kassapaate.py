@@ -1,5 +1,7 @@
 HINTA = 5
 
+#test test
+
 
 class Kassapaate:
     def __init__(self):
